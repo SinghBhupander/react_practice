@@ -1,0 +1,5 @@
+Imported ReactDOM to use the createRoot function for rendering
+ in React 18. Renamed the f1 component to F1 to follow the convention of starting component 
+ names with an uppercase letter. Used ReactDOM.createRoot to create a root instance and passed 
+ the root element obtained by document.getElementById("root"). Rendered the F1 component using 
+ the render method of the root instance.
