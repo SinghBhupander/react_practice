@@ -4,7 +4,10 @@ import Component2 from "../Component2";
 import Jsx from "../Jsx";
 import App from "./App";
 import Arrow from "./Arrow";
+import Form from "./Form";
+import Form1 from "./Form1";
 import Hello from "./Hello";
+import Hook from "./Hook";
 import info from "./info";
 import Listrender from "./Listrender";
 import Props from "./Props";
@@ -29,6 +32,9 @@ function F1() {
       <Arrow />
       <Listrender />
       <States />
+      <Hook />
+      <Form />
+      <Form1 />
     </div>
   );
 }
